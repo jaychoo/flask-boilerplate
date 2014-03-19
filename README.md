@@ -12,7 +12,15 @@ Inspired by..
 
 #### Management Commands (inspired by Django manage.py)
 
-Create new app
+Create new app (will generate initial files for new app in /app)
 
     $ python manage.py add-module NAME
+    Creating module directory and files...
+    __init__.py
+    models.py
+    views.py
+    constants.py
+    utils.py
+    Creating directory in templates folder...
+
 
