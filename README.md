@@ -9,6 +9,9 @@ Inspired by..
 * https://github.com/mjhea0/flask-boilerplate
 * http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 * https://github.com/jquacinella/flask-baseapp
+* http://www.initializr.com
+* http://html5boilerplate.com
+* http://getbootstrap.com
 
 #### Management Commands (inspired by Django manage.py)
 
